@@ -1,0 +1,2 @@
+rootProject.name = "TextProjectYoutube"
+include ':app'
